@@ -14,3 +14,9 @@ This script aims at improving the device performance indispensably especially wh
 5. **Tweak CPU & GPU**: It alters CPU and GPU configurations to improve gaming performance, like increasing CPU and GPU frequencies to achieve better gameplay responsiveness.
 
 For the most part, this script allows you to optimize your device, generating a smooth and pleasurable gaming experience.
+
+# Risk!
+
+1. Drain your battery faster than before ( of course, because its gaming module )
+2. Overheat, make sure to use cooler
+3. 1.4QP is the version of the script and its unstable/test project so maybe the setprop command somehow can be permanent, next update i will fix that problem.
