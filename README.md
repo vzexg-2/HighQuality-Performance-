@@ -20,3 +20,9 @@ For the most part, this script allows you to optimize your device, generating a 
 1. Drain your battery faster than before ( of course, because its gaming module )
 2. Overheat, make sure to use cooler
 3. 1.4QP is the version of the script and its unstable/test project so maybe the setprop command somehow can be permanent, next update i will fix that problem.
+
+# Recommend Shell app
+LADB
+Termux with Shizuku
+
+i don't recommend brevent because brevent cannot handle large output of the script.
